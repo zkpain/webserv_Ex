@@ -1,0 +1,35 @@
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\MVC basic.exe
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\MVC basic.deps.json
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\MVC basic.runtimeconfig.json
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\MVC basic.runtimeconfig.dev.json
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\MVC basic.dll
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\MVC basic.pdb
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\MVC basic.Views.dll
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\bin\Debug\netcoreapp3.1\MVC basic.Views.pdb
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.csprojAssemblyReference.cache
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\staticwebassets\MVC basic.StaticWebAssets.Manifest.cache
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\staticwebassets\MVC basic.StaticWebAssets.xml
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.RazorAssemblyInfo.cache
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.RazorAssemblyInfo.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.AssemblyInfoInputs.cache
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.AssemblyInfo.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.TagHelpers.input.cache
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.TagHelpers.output.cache
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.RazorCoreGenerate.cache
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.RazorTargetAssemblyInfo.cache
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.RazorTargetAssemblyInfo.cs
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.Views.pdb
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.dll
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.pdb
+C:\Users\kherrera\source\repos\MVC basic\MVC basic\obj\Debug\netcoreapp3.1\MVC basic.csproj.CopyComplete
